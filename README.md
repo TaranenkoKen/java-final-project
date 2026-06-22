@@ -34,7 +34,7 @@ Execute the Gradle command to start your local server:
 ./gradlew bootRun
 ```
 
-Alternatively, you can open the project in IntelliJ IDEA, locate the SmsApplication.java file, and click the green Run button.
+Or just run the main method in the SmsApplication.java class via IntelliJ IDEA.
 
 ### 4. Open Swagger UI
 
